@@ -1,4 +1,23 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Facebook Clone
+[Facebook Clone](https://facebook-clone-2b0fe.web.app).
+Built with React JS and Firebase
+
+
+![Image of the project](https://i.imgur.com/8HLMDqS.png)
+
+
+Technologies:
+- ReactJS
+- Firebase
+- Firebase Auth
+- Firebase FireStore
+- ContextAPI
+- Custom React Hooks
+- Material UI
+- Bootstrap
+
+Note:
+Please add a ApiConstants.js file with your own Firebaseconfig.
 
 ## Available Scripts
 
